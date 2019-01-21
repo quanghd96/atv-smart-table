@@ -1,0 +1,35 @@
+{
+  "name": "ngx-smart-table",
+  "version": "1.0.0",
+  "description": "Angular 2+ Smart Table",
+  "main": "./bundles/table.umd.js",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "author": "quanghd96",
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanghd96/ngx-smart-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quanghd96/ngx-smart-table/issues"
+  },
+  "homepage": "https://github.com/quanghd96/ngx-smart-table",
+  "keywords": [
+    "angular",
+    "typescript",
+    "table",
+    "akveo"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "peerDependencies": {
+    "ng2-completer": "^2.0.8",
+    "@angular/common": "^7.0.3",
+    "@angular/core": "^7.0.3",
+    "@angular/forms": "^7.0.3"
+  }
+}
